@@ -2,7 +2,6 @@ package Advanced_java.Student_Information_Management_System;
 
 import java.sql.Connection;
 import java.sql.SQLException;
-import java.sql.Statement;
 
 public class Export implements Function
 {

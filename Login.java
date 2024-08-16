@@ -1,9 +1,6 @@
 package Advanced_java.Student_Information_Management_System;
 
 import javax.swing.*;
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.Objects;
 
 public class Login extends JFrame

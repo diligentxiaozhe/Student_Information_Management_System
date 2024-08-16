@@ -1,7 +1,6 @@
 package Advanced_java.Student_Information_Management_System;
 
 import javax.swing.*;
-import java.io.*;
 import java.sql.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
